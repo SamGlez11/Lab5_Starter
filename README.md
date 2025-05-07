@@ -3,6 +3,9 @@ Make sure you make a PR to your own repo's main and not the class' repo!! Otherw
 
 Samuel I. Gonzalez - No partner :(
 
+[Expose.html](https://samglez11.github.io/Lab5_Starter/expose.html)
+[Explore.html](https://samglez11.github.io/Lab5_Starter/explore.html)
+
 ### 1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
 
 I don't think it would be ideal to test the "message" feature of a messaging application with a unit test; so, **no**, I wouldn't use a unit test. A "message" feature has many components: How the messages is typed, the UI for the message, how the user sends the message, how the user receives the message, how the network behaves, etc.
